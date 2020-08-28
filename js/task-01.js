@@ -1,8 +1,8 @@
-let message = '';
+/*let message = '';
 const user = {
+    name: 'Mango',
     age: 20,
     hobby: 'html',
-    name: 'Mango',
     premium: true,
 };
 
@@ -25,4 +25,4 @@ name : Mango
 premium : false
 mood : happy
 "full time" : true
-' */
+'*/
